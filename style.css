@@ -1,0 +1,19 @@
+body {
+	font-family: "Nunito Sans", sans-serif;
+}
+.navbar-brand {
+	font-weight: 900;
+	font-size: 1.9rem;
+}
+.nav-link {
+    margin-left: 2rem;
+    margin-right: 2rem ;
+	font-weight: 400;
+	font-size: 1.1rem;
+}
+.cover-box{
+    position: relative;
+    text-align: center;
+    border: 1.2px solid black;
+    border-radius: 10px;
+}
