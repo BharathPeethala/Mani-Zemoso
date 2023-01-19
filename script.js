@@ -1,2 +1,2 @@
 alert("Welcome to Zemoso labs 😍🙏🙏");
-alert("I change this part for pull request");
+alert('this is added for pull request');
