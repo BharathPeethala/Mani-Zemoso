@@ -1,2 +1,3 @@
 alert("Welcome to Zemoso labs 😍🙏🙏");
-alert('this is added for pull request');
+const name = prompt('Enter your name');
+alert(`Hello ${name}`);
